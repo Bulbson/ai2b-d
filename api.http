@@ -1,0 +1,9 @@
+PUT http://localhost:48872/todos/6115
+Content-Type: application/json
+
+{
+  "title": "Pierwsze zadanko",
+  "deadline": "2022-01-28",
+  "completed": true,
+  "archived": true
+}
